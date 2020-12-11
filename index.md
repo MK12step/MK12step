@@ -4,13 +4,13 @@
 
 ### We are an SAA (Sex Addicts Anonymous®) group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) "Big Book" (although we are not affiliated with AA in any way) and guidance in the SAA Green Book.
 
-### In the meeting, we avoid group therapy and instead focus on applying the Twelve Steps in our lives. Many of us arrive around 7.15pm to set-up the room and for fellowship prior to the meeting. We are fully self-supporting and there are no fees to pay. Members can make a donation at the meeting to pay for rental space, tea and coffee, if they wish.
+### In the meeting, we avoid group therapy and instead focus on applying the Twelve Steps in our lives. Many of us arrive around 7.45pm to set-up the room and for fellowship prior to the meeting. We are fully self-supporting and there are no fees to pay. Members can make a donation at the meeting to pay for rental space, tea and coffee, if they wish.
 
 
 <mark>**COVID UPDATE:**</mark>
 
-<span class="highlightme">**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
-Please contact us on the details below for the meeting details and links.**<\span>
+<mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
+Please contact us on the details below for the meeting details and links.**<\mark>
 ### Markdown
 ### Markdown
 
