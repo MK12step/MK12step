@@ -9,7 +9,7 @@
 
 <p style="font-size:60px"><mark>**COVID UPDATE:**</mark></p>
 
-<p style="font-size:50px"><mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
+<p style="font-size:30px"><mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
 Please contact us on the details below for the meeting details and links.**</mark></p>
 ### Markdown
 ### Markdown
