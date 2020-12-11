@@ -1,5 +1,5 @@
 # links
 
-[Home] (index.md)
+[Home](index.md)
 
-[Sex Addicts Anonymous] (saauk.info)
+[Sex Addicts Anonymous](saauk.info)
