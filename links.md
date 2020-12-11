@@ -1,6 +1,4 @@
-layout: page
-title: "Usefull Links"
-permalink: /links.md/
+# links
 
 [Home] (index.md)
 
