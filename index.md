@@ -12,13 +12,11 @@ Meeting weekly on Monday from 7:45pm to 9:00pm
 <p style="font-size:60px"><mark>**COVID UPDATE:**</mark></p>
 
 <p style="font-size:30px"><mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
-Please [contact us](contact.md) on the details below for the meeting details and links.**</mark></p>
+Please Contact Us by clicking the link below**</mark></p>
 
-For further information
+for further information [Contact Us](contact.md)
 
-24 hour answerphone: 07519 553928
 
-<a href = "mailto: mksaa.recovery@gmail.com">Send Email</a>
 
-<p style="font-size:15px">Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.</P>
+<p style="font-size:10px">Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.</P>
 
