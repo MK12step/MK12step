@@ -1,6 +1,6 @@
 # Welcome to the Milton Keynes Group Of SAA
 
-
+[Contact Us](contact_us.md)
 
 ### We are an SAA [Sex Addicts Anonymous®](saauk.info) group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) "Big Book" (although we are not affiliated with AA in any way) and guidance in the SAA Green Book.
 
