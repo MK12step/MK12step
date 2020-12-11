@@ -9,8 +9,8 @@
 
 <mark>**COVID UPDATE:**</mark>
 
-**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
-Please contact us on the details below for the meeting details and links.**
+<span class="highlightme">**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
+Please contact us on the details below for the meeting details and links.**<\span>
 ### Markdown
 ### Markdown
 
