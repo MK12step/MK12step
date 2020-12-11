@@ -7,7 +7,7 @@
 ### In the meeting, we avoid group therapy and instead focus on applying the Twelve Steps in our lives. Many of us arrive around 7.45pm to set-up the room and for fellowship prior to the meeting. We are fully self-supporting and there are no fees to pay. Members can make a donation at the meeting to pay for rental space, tea and coffee, if they wish.
 
 
-<p style="font-size:60px">This is a paragraph.<mark>**COVID UPDATE:**</mark></p>
+<p style="font-size:60px"><mark>**COVID UPDATE:**</mark></p>
 
 <mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
 Please contact us on the details below for the meeting details and links.**</mark>
