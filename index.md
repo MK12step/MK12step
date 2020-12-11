@@ -12,7 +12,7 @@ Meeting weekly on Monday from 7:45pm to 9:00pm
 <p style="font-size:60px"><mark>**COVID UPDATE:**</mark></p>
 
 <p style="font-size:30px"><mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
-Please contact us on the details below for the meeting details and links.**</mark></p>
+Please [contact us](contact.md) on the details below for the meeting details and links.**</mark></p>
 
 For further information
 
