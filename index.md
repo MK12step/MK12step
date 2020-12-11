@@ -13,39 +13,10 @@
 Please contact us on the details below for the meeting details and links.**</mark></p>
 
 For further information
+
 24 hour answerphone: 07519 553928
+
 <a href = "mailto: mksaa.recovery@gmail.com">Send Email</a>
 
 Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.
-### Markdown
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-''' markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MK12step/mk12step/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
