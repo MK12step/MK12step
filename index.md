@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to the Milton Keynes Group Of SAA
 
-You can use the [editor on GitHub](https://github.com/MK12step/mk12step/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-We are an SAA (Sex Addicts Anonymous®) group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) "Big Book" (although we are not affiliated with AA in any way) and guidance in the SAA Green Book.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## We are an SAA (Sex Addicts Anonymous®) group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) "Big Book" (although we are not affiliated with AA in any way) and guidance in the SAA Green Book.
+
 In the meeting, we avoid group therapy and instead focus on applying the Twelve Steps in our lives. Many of us arrive around 7.15pm to set-up the room and for fellowship prior to the meeting. We are fully self-supporting and there are no fees to pay. Members can make a donation at the meeting to pay for rental space, tea and coffee, if they wish.
 ### Markdown
 
