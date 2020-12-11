@@ -6,6 +6,8 @@
 
 ### In the meeting, we avoid group therapy and instead focus on applying the Twelve Steps in our lives. Many of us arrive around 7.45pm to set-up the room and for fellowship prior to the meeting. We are fully self-supporting and there are no fees to pay. Members can make a donation at the meeting to pay for rental space, tea and coffee, if they wish.
 
+Meeting weekly on Monday from 7:45pm to 9:00pm
+
 
 <p style="font-size:60px"><mark>**COVID UPDATE:**</mark></p>
 
@@ -18,5 +20,5 @@ For further information
 
 <a href = "mailto: mksaa.recovery@gmail.com">Send Email</a>
 
-Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.
+<p style="font-size:15px">Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.</P>
 
