@@ -14,7 +14,7 @@ Please contact us on the details below for the meeting details and links.**</mar
 
 For further information
 24 hour answerphone: 07519 553928
-Email: mksaa.recovery@gmail.com
+<a href = "mailto: mksaa.recovery@gmail.com">Send Email</a>
 
 Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.
 ### Markdown
