@@ -4,4 +4,4 @@
 
 ### <a href="https://saauk.info/">Sex Addicts Anonymous</a>
 
-### [Recovery Telemeeting](https://saauk.info/en/telemeetings)
+### <a href="https://saauk.info/en/telemeetings/">Recovery Telemeetings</a>
