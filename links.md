@@ -2,6 +2,6 @@
 
 # links
 
-### [Sex Addicts Anonymous](https://saauk.info)
+<a href="https://saauk.info/"> ### Sex Addicts Anonymous</a>
 
 ### [Recovery Telemeeting](https://saauk.info/en/telemeetings)
