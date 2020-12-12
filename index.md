@@ -2,7 +2,7 @@
 
 [Contact Us](contact.md)                           [Useful Links](links.md)
 
-### We are an SAA <a href="https://saauk.info"> Sex Addicts Anonymous®</a> group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) "Big Book" (although we are not affiliated with AA in any way) and guidance in the <a href="https://saauk.info/en/purchases/purchase?xpurchase%5bid%5d=13>SAA Green Book</a>.
+### We are an SAA <a href="https://saauk.info"> Sex Addicts Anonymous®</a> group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) "Big Book" (although we are not affiliated with AA in any way) and guidance in the <a href="https://saauk.info/en/purchases/purchase?xpurchase%5bid%5d=13">SAA Green Book</a>.
 
 ### In the meeting, we avoid group therapy and instead focus on applying the Twelve Steps in our lives. Many of us arrive around 7.45pm to set-up the room and for fellowship prior to the meeting. We are fully self-supporting and there are no fees to pay. Members can make a donation at the meeting to pay for rental space, tea and coffee, if they wish.
 
