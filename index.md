@@ -1,6 +1,6 @@
 # Welcome to the Milton Keynes Group Of SAA
 
-[Contact Us](contact.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Useful Links](links.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Find Us](find.md)
+[Contact Us](contact.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Useful Links](links.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Meeting Details](find.md)
 
 ### We are an SAA <a href="https://saauk.info"> Sex Addicts Anonymous®</a> group of men and women whose primary purpose is to recover from sex addiction and carry the message of a spiritual awakening as a result of working the twelve steps. We follow guidance in the Alcoholics Anonymous (AA) <a href="https://www.alcoholics-anonymous.org.uk/product.do?48951">"Big Book"</a> (although we are not affiliated with AA in any way) and guidance in the <a href="https://saauk.info/en/purchases/purchase?xpurchase%5bid%5d=13">SAA Green Book</a>.
 
