@@ -6,12 +6,14 @@
 ## Who Is a Sex Addict?
 ### Although sex addicts may act out sexually in many different ways, there are common elements that seem to characterize our addiction:
 
->Powerlessness over addictive sexual behavior. >Resulting unmanageability of his/her life.
-Feelings of shame, pain, and self-loathing.
-Failed promises and attempts to stop acting out.
-Preoccupation with sex leading to ritual.
-Progressive worsening of negative consequences.
-If you are unsure whether you may be a sex addict, we suggest that you complete the self-assessment.
+1. Powerlessness over addictive sexual behavior. 
+2. Resulting unmanageability of his/her life.
+3. Feelings of shame, pain, and self-loathing.
+4. Failed promises and attempts to stop acting out.
+5. Preoccupation with sex leading to ritual.
+6. Progressive worsening of negative consequences.
+
+## If you are unsure whether you may be a sex addict, we suggest that you complete the self-assessment.
 
 ## Is SAA for you?
 ### In Sex Addicts Anonymous we are a fellowship of men and women who share our experience, strength, and hope with each other for the purpose of finding freedom from addictive sexual behavior and helping others recover from sex addiction. Local meetings offer an accepting, non-threatening environment where we can share our common struggles and learn how to apply the principles of the Twelve Steps to our everyday lives.
