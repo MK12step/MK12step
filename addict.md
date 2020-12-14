@@ -20,4 +20,4 @@
 
 ### The only requirement for membership is a desire to stop addictive sexual behavior. There are no fees or dues.
 
-### We practice strict anonymity and confidentiality, so that our meetings are a safe place for all of us. Who we meet or what is said in a meeting is considered as confidential.
+### We practice <a href="https://saa-recovery.org/am-i-a-sex-addict/understanding-anonymity/"> strict anonymity</a> and confidentiality, so that our meetings are a safe place for all of us. Who we meet or what is said in a meeting is considered as confidential.
