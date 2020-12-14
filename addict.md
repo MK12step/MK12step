@@ -13,7 +13,7 @@
 5. Preoccupation with sex leading to ritual.
 6. Progressive worsening of negative consequences.
 
-## If you are unsure whether you may be a sex addict, we suggest that you complete the self-assessment.
+## If you are unsure whether you may be a sex addict, we suggest that you complete the <a href="https://saa-recovery.org/am-i-a-sex-addict/self-assessment/"> self-assessment.</a>
 
 ## Is SAA for you?
 ### In Sex Addicts Anonymous we are a fellowship of men and women who share our experience, strength, and hope with each other for the purpose of finding freedom from addictive sexual behavior and helping others recover from sex addiction. Local meetings offer an accepting, non-threatening environment where we can share our common struggles and learn how to apply the principles of the Twelve Steps to our everyday lives.
