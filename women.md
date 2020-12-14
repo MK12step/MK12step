@@ -1,4 +1,4 @@
-[home](index.md)
+[Home](index.md)
 
 ## Getting Started as a Woman in SAA Meetings
 
