@@ -2,8 +2,7 @@
 
 [Contact Us](contact.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Useful Links](links.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Meeting Details](find.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Women in SAA](women.md)
 > “At our meetings, we read SAA literature and share our experience, strength, and hope with each other, focusing on how the SAA program of recovery works in our lives.”
-
->> — Sex Addicts Anonymous, p. 10
+> — Sex Addicts Anonymous, p. 10
 
 
 
