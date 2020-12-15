@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Meeting Details
-permalink: /find/
+
 ---
 
 [Home](index.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact Us](contact.md)
