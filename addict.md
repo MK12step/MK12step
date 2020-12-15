@@ -1,3 +1,9 @@
+---
+layout: page
+title: addict
+permalink: /addict/
+---
+
 [Home](index.md)
 
 >“Before coming to Sex Addicts Anonymous, many of us never knew that our problem had a name. All we knew was that we couldn’t control our sexual behavior. For us, sex was a consuming way of life. Although the details of our stories were different, our problem was the same. We were addicted to sexual behaviors that we returned to over and over, despite the consequences.”
