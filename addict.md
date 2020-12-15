@@ -1,7 +1,5 @@
 ---
-layout: page
-title: addict
-permalink: /addict/
+
 ---
 
 [Home](index.md)
