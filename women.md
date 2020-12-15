@@ -1,3 +1,9 @@
+---
+layout: page
+title: Women
+permalink: /women/
+---
+
 [Home](index.md)
 
 ## Getting Started as a Woman in SAA Meetings
