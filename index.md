@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+permalink: /index/
+---
 # Welcome to the Milton Keynes Group Of SAA
 
 [Contact Us](contact.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Useful Links](links.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Meeting Details](find.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Women in SAA](women.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Am I A Sex Addict?](addict.md)
