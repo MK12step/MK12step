@@ -1,6 +1,3 @@
----
-
----
 [Home](index.md)
 
 # links
