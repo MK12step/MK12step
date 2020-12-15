@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact Us
+permalink: /contact/
+---
+
 [Home](index.md)
 
 # Contact Us
