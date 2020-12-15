@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: "page"
+title: "Home"
 permalink: /index/
 ---
 # Welcome to the Milton Keynes Group Of SAA
