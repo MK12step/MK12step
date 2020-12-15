@@ -1,3 +1,8 @@
+---
+layout: page
+title: Useful Links
+permalink: /links/
+---
 [Home](index.md)
 
 # links
