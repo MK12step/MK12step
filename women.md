@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Women
-permalink: /women/
+
 ---
 
 [Home](index.md)
