@@ -16,52 +16,52 @@ Recovery does not happen on a preset schedule. While there are only a few exerci
 
 The worksheets can be accessed by clicking on the links below.
 
-Week
+- Week
 Step 1
 1.	The three circles - goal: to help people identify their sobriety
 2.	We admitted that we were powerless over addictive sexual behavior
 3.	that our lives had become unmanageable
 
-Step 2
+- Step 2
 4.	Came to believe
 5.	That a power greater than ourselves (N)
 6.	Could restore us to sanity (N)
 
-Step 3
+- Step 3
 7.	Made a decision to turn our will and life over to the care of
 8.	God as we understood God
 
-Step 4
+- Step 4
 9.	Made a fearless and searching Moral
 10.	Inventory of ourselves
 
-Step 5
+- Step 5
 11.	Admitted to God, to ourselves, and to another human being
 12.	the exact nature of our wrongs
 
-Step 6
+- Step 6
 13.	Were entirely ready to have God remove all these defects of character
 14.	Were entirely ready to have God remove all these defects of character
 
-Step 7
+- Step 7
 15.	Humbly asked God to remove our shortcomings
 
-Step 8
+- Step 8
 16.	Made a list of all persons we had harmed
 17.	and became willing to make amends to them all
 
-Step 9
+- Step 9
 18.	Made direct amends to such people wherever possible except when to do so would injure them or others
 
-Step 10
+- Step 10
 19.	Continued to take personal inventory
 20.	And when we were wrong, promptly admitted it
 
-Step 11
+- Step 11
 21.	Sought through prayer and meditation to improve our conscious contact with God as we understood God
 22.	Praying only for the knowledge of God's will for us and the power to carry that out
 
-Step 12
+- Step 12
 23.	Having had a spiritual awakening as the result of these steps
 24.	We tried to carry this message to other sex addicts and to practice these principles in all our lives
 Additional Resources: Plano Step Study Worksheets.
