@@ -21,8 +21,8 @@ Please Contact Us by clicking the link below**</mark></p>
 for further information [Contact Us](contact.md)
  <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
-    [donate](donate.md) 
-
+    
+[Donate](donate.md)
 </form>
 
 
