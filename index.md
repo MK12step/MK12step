@@ -19,12 +19,8 @@
 Please Contact Us by clicking the link below**</mark></p>
 
 for further information [Contact Us](contact.md)
- <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
-    
 [Donate](donate.md)
-</form>
-
 
 <p style="font-size:10px">Disclaimer: The content of this website has not been approved by and may not reflect the opinions or policies of the ISO of SAA, Inc.</P>
 
