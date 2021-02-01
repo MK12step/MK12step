@@ -22,7 +22,7 @@ for further information [Contact Us](contact.md)
 
 <!-- Identify your business so that you can collect the payments. -->
 <input type="hidden" name="MK SAA"
-    value="donations@kcparkfriends.org">
+    value="paypal.me/pool/c/8sYOMglZf8">
 
 <!-- Specify a Donate button. -->
 <input type="hidden" name="cmd" value="_donations">
