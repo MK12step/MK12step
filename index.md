@@ -13,9 +13,9 @@
 ### Meeting weekly on Monday from 7:45pm to 9:00pm
 
 
-<p style="font-size:60px"><mark>**COVID UPDATE:**</mark></p>
+<p style="font-size:60px"><mark>**COVID UPDATE: 29th March 2021**</mark></p>
 
-<p style="font-size:30px"><mark>**Due to the COVID pandemic weekly meetings are now taking place via Zoom Video Confrencing. 
+<p style="font-size:30px"><mark>**Due to the COVID pandemic from the 12th April 2021 we will be returning to meeting at the Quaker Centre, meetings will also take place via Zoom Video Confrencing. 
 Please Contact Us by clicking the link below**</mark></p>
 
 for further information [Contact Us](contact.md)
