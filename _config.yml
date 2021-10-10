@@ -1,17 +1,41 @@
-theme: jekyll-theme-slate
+title: Milton Keynes Sex Addicts Anonymous
+description: MK-SAA
+# email: mksaa.recovery@gmail.com
+
+# Temporary theme!
+theme: minima
+# Was: theme: jekyll-theme-slate
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
-include:
+
+exclude:
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  - links.md
-  - contact.md
+  - donate.md
+  - greenbookstudy.md
+
+# include:
+  #- addict.md
+  #- contact.md
+  #- find.md
+  #- index.md
+  #- links.md
+  #- women.md
+
+paypal:
+  # Anonymous Paypal pool link.
+  pool_url: https://paypal.com/pools/c/8CvGXqxfZn#_.Anonymous
+  # pool_url: https://bit.ly/0921mk7t
+  # Non-anonymous Paypal link.
+  me_url: https://paypal.me/Mkfellowship/%amount
+  # me_url: https://paypal.me/Mkfellowship/5.00
+
+# End.
