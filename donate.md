@@ -1,3 +1,9 @@
+---
+title: Donate
+layout: page
+permalink: contact.html
+---
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
     <!-- Identify your business so that you can collect the payments. -->

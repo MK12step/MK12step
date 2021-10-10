@@ -1,3 +1,9 @@
+---
+title: Step Study
+layout: page
+permalink: greenbookstudy.html
+---
+
 Welcome to the Green Book Step Study - a study of the Twelve Steps of SAA based on quotes from Sex Addicts Anonymous 1st ed., aka "The Green Book".
 
 The Green Book is published by and can be ordered from the ISO of SAA. You will need a copy of that book and are urged to get one.
