@@ -1,0 +1,21 @@
+<!doctype html><html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <link href="assets/css/custom.css" rel="stylesheet" />
+
+    {% include header.html %}
+
+    <main class="page-content" role="main">
+      <div class="wrapper">
+
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+    {% include footer-javascript.html %}
+
+  </body>
+</html>

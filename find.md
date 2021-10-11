@@ -12,7 +12,7 @@ permalink: find.html
 
 We meet every Monday at the Quaker Centre in Milton Keynes (see map below) @ 7.45pm for a 8.00pm start.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2453.3351363220745!2d-0.7423750488691282!3d52.0554210796294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877aaf10c09ab19%3A0x84c6f132c9100aa8!2sThe%20Quaker%20Centre!5e0!3m2!1sen!2suk!4v1607784037136!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2453.3351363220745!2d-0.7423750488691282!3d52.0554210796294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877aaf10c09ab19%3A0x84c6f132c9100aa8!2sThe%20Quaker%20Centre!5e0!3m2!1sen!2suk!4v1607784037136!5m2!1sen!2suk" allowfullscreen aria-hidden="false" aria-label="Embedded Google map." tabindex="0"></iframe>
 
 ## Address ##
 
@@ -21,7 +21,7 @@ We meet every Monday at the Quaker Centre in Milton Keynes (see map below) @ 7.4
 Downhead,
 Milton Keynes,
 MK15 9BH,
-* Near the corner of V9 Over Street and A509 / H5 Portway,
+* Near the corner of V9 Overstreet and A509 / H5 Portway,
 * [Google maps][map],
 * [How to get here — MK Quakers][quakers].
 

@@ -1,0 +1,23 @@
+
+.X_body {
+  border: 3px solid red;
+}
+
+iframe[ src *= 'google.com/maps' ] {
+  border: 1px solid #bbb;
+  border-radius: .25rem;
+  height: 450px;
+  min-width: 400px;
+  width: 100%;
+}
+
+a[ href *= 'paypal.com' ],
+a[ href *= 'paypal.me' ] {
+  border: 1px solid gray;
+  cursor: alias;
+  padding: .35rem;
+}
+
+.site-nav {
+  line-height: 44px; // Was: 54px;
+}

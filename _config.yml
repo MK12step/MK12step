@@ -6,6 +6,9 @@ description: MK-SAA
 theme: minima
 # Was: theme: jekyll-theme-slate
 
+minima:
+  skin: dark
+
 plugins:
   - jekyll-relative-links
 
@@ -22,13 +25,13 @@ exclude:
   - donate.md
   - greenbookstudy.md
 
-# include:
-  #- addict.md
-  #- contact.md
-  #- find.md
-  #- index.md
-  #- links.md
-  #- women.md
+header_pages:
+  - index.md
+  - addict.md
+  - women.md
+  - contact.md
+  - find.md
+  - links.md
 
 paypal:
   # Anonymous Paypal pool link.
