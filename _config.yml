@@ -34,9 +34,10 @@ header_pages:
   - links.md
 
 paypal:
-  # Anonymous Paypal pool link.
-  pool_url: https://paypal.com/pools/c/8CvGXqxfZn#_.Anonymous
-  # pool_url: https://bit.ly/0921mk7t
+  # Anonymous Paypal pool link ~ Closes 08-Oct-2021.
+  # "7th Tradition contributions for our MK 12 Step Group" ('Sober Man')
+  pool_url: https://paypal.com/pools/c/8Do1ZUsjqB#_.Anonymous
+  # pool_url: https://bit.ly/mk1021
   # Non-anonymous Paypal link.
   me_url: https://paypal.me/Mkfellowship/%amount
   # me_url: https://paypal.me/Mkfellowship/5.00
