@@ -22,8 +22,11 @@ exclude:
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
-  - donate.md
+  # - donate.md
   - greenbookstudy.md
+
+include:
+  - donate.md
 
 header_pages:
   - index.md
@@ -34,7 +37,7 @@ header_pages:
   - links.md
 
 paypal:
-  # Anonymous Paypal pool link ~ Closes 08-Oct-2021.
+  # Anonymous Paypal pool link ~ Closes 30-Oct-2021.
   # "7th Tradition contributions for our MK 12 Step Group" ('Sober Man')
   pool_url: https://paypal.com/pools/c/8Do1ZUsjqB#_.Anonymous
   # pool_url: https://bit.ly/mk1021

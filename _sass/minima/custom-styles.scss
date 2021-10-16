@@ -4,20 +4,47 @@
 }
 
 iframe[ src *= 'google.com/maps' ] {
-  border: 1px solid #bbb;
-  border-radius: .25rem;
+  border: 1px solid #ccc;
+  border-radius: .2rem;
   height: 450px;
-  min-width: 400px;
+  min-width: 360px;
   width: 100%;
 }
 
 a[ href *= 'paypal.com' ],
 a[ href *= 'paypal.me' ] {
-  border: 1px solid gray;
+  background: #f5f5f5;
+  border: 1px solid #bbb;
+  border-radius: .2rem;
   cursor: alias;
   padding: .35rem;
 }
 
+/* a[ href *= 'paypal.com' ]:after {
+  content: '\261E'; // ☞
+  font-size: 1.1rem;
+} */
+
+blockquote {
+  color: #666;
+  letter-spacing: -0.2px;
+}
+
+.site-title {
+  letter-spacing: -0.6px;
+  line-height: 1.6;
+}
+
+ul > li {
+  line-height: 2.1;
+}
+
 .site-nav {
   line-height: 44px; // Was: 54px;
+}
+
+button,
+.btn {
+  font-size: x-large;
+  padding: .5rem 2rem;
 }
