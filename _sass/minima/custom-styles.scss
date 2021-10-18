@@ -20,6 +20,15 @@ a[ href *= 'paypal.me' ] {
   padding: .35rem;
 }
 
+li a[ href *= paypalme ] {
+  display: inline-block;
+  font-size: x-large;
+  margin: .7rem 0;
+  padding: .25rem;
+  text-align: center;
+  width: 14rem;
+}
+
 /* a[ href *= 'paypal.com' ]:after {
   content: '\261E'; // ☞
   font-size: 1.1rem;
