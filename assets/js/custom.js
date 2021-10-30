@@ -1,15 +1,19 @@
 
 /* 7th tradition "Donate" button.
 */
-const CFG = document.querySelector('[data-paypal-pool-url]').dataset;
-const NAV = document.querySelector('.site-nav .trigger');
+function addDonateButton() {
+  const CFG = document.querySelector('[data-paypal-pool-url]').dataset;
+  const NAV = document.querySelector('.site-nav .trigger');
 
-NAV.innerHTML += `<a
-  href="${CFG.paypalPoolUrl}"
-  target="_blank"
-  title="7th tradition contributions (Opens in a new window)"
-  >Donate</a>
-`; // ☞;
+  NAV.innerHTML += `<a
+    href="${CFG.paypalPoolUrl}"
+    target="_blank"
+    title="7th tradition contributions (Opens in a new window)"
+    >Donate</a>
+  `; // ☞;
+}
+addDonateButton();
+
 
 /* Accessibility fix!
 */

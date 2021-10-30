@@ -22,7 +22,6 @@ exclude:
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
-  # - donate.md
   - greenbookstudy.md
 
 include:
@@ -35,6 +34,7 @@ header_pages:
   - contact.md
   - find.md
   - links.md
+  #- donate.md
 
 paypal:
   # Anonymous Paypal pool link ~ Closes 30-Oct-2021.
