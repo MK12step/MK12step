@@ -1,5 +1,5 @@
 
-/* 7th tradition "Donate" button.
+/* 7th tradition "Donate" button. (Retired: 31-Oct-2021)
 */
 function addDonateButton() {
   const CFG = document.querySelector('[data-paypal-pool-url]').dataset;
@@ -12,7 +12,8 @@ function addDonateButton() {
     >Donate</a>
   `; // ☞;
 }
-addDonateButton();
+
+// Was: addDonateButton();
 
 
 /* Accessibility fix!

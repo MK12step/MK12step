@@ -34,7 +34,7 @@ header_pages:
   - contact.md
   - find.md
   - links.md
-  #- donate.md
+  - donate.md
 
 paypal:
   # Anonymous Paypal pool link ~ Closes 30-Oct-2021.
