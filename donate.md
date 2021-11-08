@@ -8,23 +8,25 @@ permalink: donate.html
 
 > Every (S)AA Group ought to be fully self supporting, declining outside contributions.
 
-[The 12 traditions of A.A.][7thtrad]
+[12 traditions of S.A.A.][saa12t]
 
 We have no dues or fees for membership, but we do have expenses.
 Make a contribution via Paypal (_requires a Paypal account_):
 
-* [Contribute £2](https://www.paypal.com/paypalme/MKFellowship/2.00)
-* [Contribute £3](https://www.paypal.com/paypalme/MKFellowship/3.00)
-* [Contribute £5](https://www.paypal.com/paypalme/MKFellowship/5.00)
-* [Contribute £10](https://www.paypal.com/paypalme/MKFellowship/10.00)
-* [Other amount](https://www.paypal.com/paypalme/MKFellowship/)
+* [Contribute £2](https://paypal.me/MKFellowship/2.00)
+* [Contribute £3](https://paypal.me/MKFellowship/3.00)
+* [Contribute £5](https://paypal.me/MKFellowship/5.00)
+* [Contribute £10](https://paypal.me/MKFellowship/10.00)
+* [Other amount](https://paypal.me/MKFellowship/)
 
-[![Paypal][paypal-logo]][paypal]
+[![PayPal][paypal-logo]][paypal]
 
-[paypal]: https://www.paypal.com
+[paypal]: https://www.paypal.com "PayPal"
 [paypal-logo]: https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg
 [7thtrad]: https://www.alcoholics-anonymous.org.uk/About-AA/AA-Traditions
   "The Twelve Traditions of Alcoholics Anonymous"
+[saa12t]: https://saa-recovery.org/our-program/the-twelve-traditions/
+  "The Twelve Traditions of S.A.A."
 
 <!--
 
